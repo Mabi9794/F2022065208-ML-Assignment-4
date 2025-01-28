@@ -1,5 +1,5 @@
 pip install streamlit
-streamlit run app.py
+streamlit run code (1).py
 streamlit
 pandas
 scikit-learn
