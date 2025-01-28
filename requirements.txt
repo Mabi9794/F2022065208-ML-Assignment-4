@@ -1,4 +1,4 @@
-streamlit run code (1).py
+streamlit run code (2).py
 streamlit
 pandas
 scikit-learn
