@@ -1,4 +1,3 @@
-pip install streamlit
 streamlit run code (1).py
 streamlit
 pandas
